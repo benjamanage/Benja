@@ -35,8 +35,8 @@ const PORTFOLIO = {
   ],
 
   projects: [
-    { name: "SKYLEX", type: "Skyblock", status: "COMPLETADO", progress: 100, description: "Gestión y coordinación dentro de la comunidad.", color: "cyan" },
-    { name: "MINENIGHT", type: "Survival", status: "AVANZANDO", progress: 70, description: "Coordinación de staff y seguimiento del proyecto.", color: "violet" },
+    { name: "SKYLEX", type: "prison", status: "COMPLETADO", progress: 100, description: "Gestión y coordinación dentro de la comunidad.", color: "cyan" },
+    { name: "MINENIGHT", type: "Clashox", status: "AVANZANDO", progress: 70, description: "Coordinación de staff y seguimiento del proyecto.", color: "violet" },
     { name: "HYDROXMC", type: "Prison", status: "AVANZANDO", progress: 60, description: "Organización de equipo y soporte operativo.", color: "red" },
     { name: "VALKYRIAN", type: "Factions", status: "PRÓXIMAMENTE", progress: 15, description: "Proyecto en preparación y planificación.", color: "gold" }
   ],
